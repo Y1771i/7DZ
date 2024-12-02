@@ -1,0 +1,18 @@
+.button-1 {
+  border-radius: 10px;
+  padding: 9px 80px;
+  margin: 0 10px;
+  /* text-align: center; */
+  justify-content: center;
+  color: beige;
+  border: none;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: inherit;
+  background: linear-gradient(90deg, rgba(105,16,155,1) 0%, rgba(10,10,140,1) 37%, rgba(5,5,21,1) 79%);
+  cursor: pointer;
+}
+
+.button-1:hover{
+    color:cadetblue
+}
